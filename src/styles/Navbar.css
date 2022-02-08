@@ -1,0 +1,28 @@
+.navbar_btn {
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar_btn button {
+    border: none;
+    outline: none;
+    background-color: none;
+    font-size: 1rem;
+    background-color: rgba(255, 255, 0, 0.445);
+    padding: 1rem;
+}
+
+.navbar_btn button:hover {
+    transform: scale(1.3);
+    font-weight: bold;
+    cursor: pointer;
+    background-color: yellow
+}

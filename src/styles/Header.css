@@ -1,0 +1,34 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    padding: 3rem ;
+    justify-content: space-evenly;
+    align-items: center;
+
+    background-color: rgba(0, 0, 0, 0.541);
+}
+
+.header img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.header div {
+
+    text-align: center;
+    width: 100px;
+    height: 80px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+
+.header button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 1.1rem;
+
+}

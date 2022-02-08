@@ -1,0 +1,4 @@
+export const FILTER_BMX = "FILTER_BMX";
+export const FILTER_ROAD = "FILTER_ROAD";
+export const FILTER_TRACK = "FILTER_TRACK";
+export const FILTER_MOUNTAINS = "FILTER_MOUNTAINS";

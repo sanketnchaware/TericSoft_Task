@@ -1,0 +1,16 @@
+.highlight {
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+    padding: 1rem;
+    width: 100%
+}
+
+#heading {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-decoration: underline;
+}
