@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Instructions how to browse application:-
 
-On starting the application you can see the Cycles highlights of cycle category:-
+On starting the application you can see the highlights of cycle category:-
 ![Screenshot (604)](https://user-images.githubusercontent.com/68117560/152975450-c2d4a624-1d38-417a-8d58-514b2da3ad59.png)
 To sort according to BMX, Tracks, Roads, Mountains you can click on the button as given
 
